@@ -1,5 +1,4 @@
-# bestbid
-Computing Project 
+# bestbid 
 It's an auction ecommerce website. 
 Built with Laravel PHP Framework.
 Contain admin and user panel.
